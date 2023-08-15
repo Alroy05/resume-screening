@@ -1,4 +1,4 @@
 # resume-screening
 
-_before starting
+*before starting*
 pip install -r requirements.txt
